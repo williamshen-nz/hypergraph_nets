@@ -2,9 +2,17 @@
 Hypergraph Networks is an extension of [Graph Nets](https://github.com/deepmind/graph_nets) 
 by Google DeepMind to hypergraphs, implemented in PyTorch.
 
+Hypergraph Networks allow you to build powerful hypergraph neural networks by using core blocks
+that take hypergraphs as input and return hypergraphs as output. Existing deep learning approaches,
+including [Hypergraph Neural Networks](https://github.com/iMoonLab/HGNN) and 
+[Dynamic Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2019/0366.pdf), can be
+formulated using Hypergraph Networks.
+
 ## Progress
 The Hypergraph Networks library is currently under testing and will be released in the near
-future. For earlier access, please contact 
+future (by the end of 2019).
+
+For any queries, please contact 
 [william.shen@anu.edu.au](mailto:william.shen@anu.edu.au).
 
 ### What is a hypergraph?
