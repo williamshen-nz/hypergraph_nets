@@ -10,7 +10,7 @@ formulated using Hypergraph Networks.
 
 ## Progress
 The Hypergraph Networks library is currently under testing and will be released in the near
-future (by the end of 2019).
+future (by the end of 2019). A paper is also in the works.
 
 For any queries, please contact 
 [william.shen@anu.edu.au](mailto:william.shen@anu.edu.au).
